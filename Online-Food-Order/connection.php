@@ -2,7 +2,7 @@
 
 function Connect()
 {
-	$dbhost = "localhost";
+	$dbhost = "euphority.me";
 	$dbuser = "root";
 	$dbpass = "";
 	$dbname = "foodorder";
