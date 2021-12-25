@@ -27,7 +27,7 @@
 
 
 .songs-wrapper {
-  min-height: 100vh;
+  min-height: auto;
   background-color: black;
 }
 .songs-wrapper .song {
