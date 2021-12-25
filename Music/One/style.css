@@ -9,6 +9,9 @@ body{
     padding: 0;
 }
 
+.songName{
+	font-size: 18px;
+}
 nav{
     font-family: 'Ubuntu', sans-serif;
 }
