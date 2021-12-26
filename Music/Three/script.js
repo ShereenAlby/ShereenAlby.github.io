@@ -11,15 +11,15 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
     {songName: "Save Me", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "Young Forever", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {songName: "Spring Day", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
-    {songName: "Magic Shop", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Forever", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Springday", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
+    {songName: "Magical", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Mikrokosmos", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Love Myself", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
+    {songName: "Soul", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
     {songName: "So What", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
     {songName: "Stay", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
     {songName: "Crystal Snow", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
-    {songName: "The Eternal", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
+    {songName: "Eternal", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
