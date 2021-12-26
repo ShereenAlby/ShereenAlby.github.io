@@ -12,13 +12,13 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 let songs = [
     {songName: "Paradise", filePath: "songs/1.mp3", coverPath: "1.jpg"},
     {songName: "Lucky", filePath: "songs/2.mp3", coverPath: "1.jpg"},
-    {songName: "I'm Stupid", filePath: "songs/3.mp3", coverPath: "1.jpg"},
-    {songName: "Fight The Bad", filePath: "songs/4.mp3", coverPath: "1.jpg"},
-    {songName: "To My Heart", filePath: "songs/5.mp3", coverPath: "1.jpg"},
+    {songName: "Stupid", filePath: "songs/3.mp3", coverPath: "1.jpg"},
+    {songName: "Fight-Bad", filePath: "songs/4.mp3", coverPath: "1.jpg"},
+    {songName: "To Me", filePath: "songs/5.mp3", coverPath: "1.jpg"},
     {songName: "What Am I", filePath: "songs/2.mp3", coverPath: "1.jpg"},
-    {songName: "Stand By Me", filePath: "songs/2.mp3", coverPath: "1.jpg"},
-    {songName: "For Heart", filePath: "songs/2.mp3", coverPath: "1.jpg"},
-    {songName: "Infinite Love", filePath: "songs/2.mp3", coverPath: "1.jpg"},
+    {songName: "Stand Me", filePath: "songs/2.mp3", coverPath: "1.jpg"},
+    {songName: "For You", filePath: "songs/2.mp3", coverPath: "1.jpg"},
+    {songName: "Infinity", filePath: "songs/2.mp3", coverPath: "1.jpg"},
     {songName: "Ya Ya Ya", filePath: "songs/4.mp3", coverPath: "1.jpg"},
 ]
 
