@@ -13,13 +13,13 @@ let songs = [
     {songName: "Moonlight", filePath: "songs/1.mp3", coverPath: "1.jpg"},
     {songName: "Superkidd", filePath: "songs/2.mp3", coverPath: "1.jpg"},
     {songName: "Ambiguous", filePath: "songs/3.mp3", coverPath: "1.jpg"},
-    {songName: "Heart Stolen", filePath: "songs/4.mp3", coverPath: "1.jpg"},
-    {songName: "Power Girl", filePath: "songs/5.mp3", coverPath: "1.jpg"},
-    {songName: "Goodbye Baby", filePath: "songs/2.mp3", coverPath: "1.jpg"},
-    {songName: "Unknown Story", filePath: "songs/2.mp3", coverPath: "1.jpg"},
+    {songName: "Stolen", filePath: "songs/4.mp3", coverPath: "1.jpg"},
+    {songName: "Girly", filePath: "songs/5.mp3", coverPath: "1.jpg"},
+    {songName: "Goodbye", filePath: "songs/2.mp3", coverPath: "1.jpg"},
+    {songName: "Unknown", filePath: "songs/2.mp3", coverPath: "1.jpg"},
     {songName: "Perfect", filePath: "songs/2.mp3", coverPath: "1.jpg"},
-    {songName: "Ringa Linga", filePath: "songs/2.mp3", coverPath: "1.jpg"},
-    {songName: "Until You", filePath: "songs/4.mp3", coverPath: "1.jpg"},
+    {songName: "Ringalin", filePath: "songs/2.mp3", coverPath: "1.jpg"},
+    {songName: "Until U", filePath: "songs/4.mp3", coverPath: "1.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
